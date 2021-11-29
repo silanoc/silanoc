@@ -9,8 +9,8 @@
 
 
 ## Pydefis 
-J'aime résoudre les défis du site https://pydefis.callicode.fr/
-mon score : https://pydefis.callicode.fr/user/mhof/silanoc/ead0597bba827533
+- J'aime résoudre les défis du site https://pydefis.callicode.fr/
+- Mon score : https://pydefis.callicode.fr/user/mhof/silanoc/ead0597bba827533
 
 ## Wikipedia et co
 Je contribue sous le pseudo silanoc sur wikipedia, commons, wikidata
