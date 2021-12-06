@@ -13,4 +13,6 @@
 - Mon score : https://pydefis.callicode.fr/user/mhof/silanoc/ead0597bba827533
 
 ## Wikipedia et co
-Je contribue sous le pseudo silanoc sur wikipedia, commons, wikidata
+- Je contribue sous le pseudo silanoc principalement sur wikipedia, commons, wikidata
+- mes stats https://xtools.wmflabs.org/articleinfo/fr.wikipedia.org/Utilisateur:Silanoc
+
