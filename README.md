@@ -14,5 +14,5 @@
 
 ## Wikipedia et co
 - Je contribue sous le pseudo silanoc principalement sur wikipedia, commons, wikidata
-- mes stats https://xtools.wmflabs.org/articleinfo/fr.wikipedia.org/Utilisateur:Silanoc
+
 
