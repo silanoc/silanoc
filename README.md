@@ -1,13 +1,12 @@
-- 👋 Hi, I’m @silanoc
+- 👋 Bonjour, je suis @silanoc / Hi, I’m @silanoc
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning :
-  - python
+  - Python 3
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :
+- 📫 Comment me contacter / How to reach me :
   - silanoc@gmail.com
+  - https://www.linkedin.com/in/gabriel-le-bernard/
  
-
-
 ## Pydefis 
 - J'aime résoudre les défis du site https://pydefis.callicode.fr/
 - Mon score : https://pydefis.callicode.fr/user/mhof/silanoc/ead0597bba827533
