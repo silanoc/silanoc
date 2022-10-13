@@ -34,5 +34,7 @@ Répartition dans le temps :
 - Wikipédia : la plus grande partie en 2006-2007 et un pic en 2014
 - à partir de 2017 wikidata et commons sont les deux projets sur lesquels j'interviens massivement.
 
-
-
+## Site personnel
+### Grimoire électronique mogai
+- http://grimoire-electronique-mogai.fr/
+- à l'aide de requete en sparql, met en valeurs des éléments de wikidata, sur la thématique LGBTQIA+
