@@ -1,12 +1,12 @@
 - 👋 Bonjour, je suis @silanoc / Hi, I’m @silanoc
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning :
   - Python 3
   - wikidata, sparql
-- 💞️ I’m looking to collaborate on ...
+  - html/css
 - 📫 Comment me contacter / How to reach me :
   - silanoc@gmail.com
   - https://www.linkedin.com/in/gabriel-le-bernard/
+  - https://pouet.chapril.org/@Gabrielhle
  
 ## Pydefis 
 - Depuis 2015, je relève les défis du site https://pydefis.callicode.fr/
