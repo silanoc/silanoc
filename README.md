@@ -36,5 +36,5 @@ Répartition dans le temps :
 
 ## Site personnel
 ### Grimoire électronique mogai
-- http://grimoire-electronique-mogai.fr/
+- http://grimoire-electronique-mogai.silanoc.fr/
 - à l'aide de requete en sparql, met en valeurs des éléments de wikidata, sur la thématique LGBTQIA+
